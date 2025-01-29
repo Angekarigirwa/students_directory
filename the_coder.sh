@@ -6,3 +6,7 @@ touch students_directory/cohort-1.txt
 touch students_directory/cohort-2.txt
 touch students_directory/cohort-3.txt
 	
+echo "Israel Koffi" >> students_directory/cohort-3.txt
+echo "Johann N'zan" >> students_directory/cohort-3.txt
+echo "Junior" >> students_directory/cohort-3.txt
+
